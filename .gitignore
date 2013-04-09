@@ -1,0 +1,4 @@
+# coursera_algo2_sedgewick gitignore
+
+algo2_hw1/data/
+*.class
