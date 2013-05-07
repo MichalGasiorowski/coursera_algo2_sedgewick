@@ -3,6 +3,6 @@
 algo2_hw1/data/
 algo2_hw2/data/
 algo2_hw3/data/
-**/lib/
+algo2_hw1/lib/
 
 *.class
