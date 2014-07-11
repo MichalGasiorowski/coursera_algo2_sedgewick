@@ -16,9 +16,9 @@ public class CircularSuffixArray {
     	
     	sort(suffixes);
     	//threeWaySort(suffixes);
-    	for(int i = 0; i < size; i++) {
-    		StdOut.println(suffixes[i] + ":" + s.charAt(suffixes[i] % size));
-    	}
+    	//for(int i = 0; i < size; i++) {
+    	//	StdOut.println(suffixes[i] + ":" + s.charAt(suffixes[i] % size));
+    	//}
     }
     
     public int length() { // length of s
